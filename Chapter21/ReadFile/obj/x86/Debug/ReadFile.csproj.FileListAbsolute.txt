@@ -1,0 +1,5 @@
+D:\works\BegVCSharp\Chapter21\ReadFile\bin\Debug\ReadFile.exe
+D:\works\BegVCSharp\Chapter21\ReadFile\bin\Debug\ReadFile.pdb
+D:\works\BegVCSharp\Chapter21\ReadFile\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\works\BegVCSharp\Chapter21\ReadFile\obj\x86\Debug\ReadFile.exe
+D:\works\BegVCSharp\Chapter21\ReadFile\obj\x86\Debug\ReadFile.pdb
