@@ -1,0 +1,5 @@
+D:\works\BegVCSharp\Chapter21\StreamWrite\bin\Debug\StreamWrite.exe
+D:\works\BegVCSharp\Chapter21\StreamWrite\bin\Debug\StreamWrite.pdb
+D:\works\BegVCSharp\Chapter21\StreamWrite\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\works\BegVCSharp\Chapter21\StreamWrite\obj\x86\Debug\StreamWrite.exe
+D:\works\BegVCSharp\Chapter21\StreamWrite\obj\x86\Debug\StreamWrite.pdb

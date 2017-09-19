@@ -30,8 +30,6 @@ namespace WriteFile
             {
                 Console.WriteLine("Error occurred : " + ex.Message);
             }
-
-            
         }
     }
 }

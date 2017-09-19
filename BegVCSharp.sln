@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFile", "Chapter21\ReadF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteFile", "Chapter21\WriteFile\WriteFile.csproj", "{F08D8C78-ED9B-462D-BB9F-F66B9B919D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWrite", "Chapter21\StreamWrite\StreamWrite.csproj", "{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{F08D8C78-ED9B-462D-BB9F-F66B9B919D70}.Debug|x86.Build.0 = Debug|x86
 		{F08D8C78-ED9B-462D-BB9F-F66B9B919D70}.Release|x86.ActiveCfg = Release|x86
 		{F08D8C78-ED9B-462D-BB9F-F66B9B919D70}.Release|x86.Build.0 = Release|x86
+		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Debug|x86.ActiveCfg = Debug|x86
+		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Debug|x86.Build.0 = Debug|x86
+		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Release|x86.ActiveCfg = Release|x86
+		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
