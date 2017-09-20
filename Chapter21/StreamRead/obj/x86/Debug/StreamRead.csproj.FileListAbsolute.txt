@@ -1,0 +1,5 @@
+D:\works\BegVCSharp\Chapter21\StreamRead\bin\Debug\StreamRead.exe
+D:\works\BegVCSharp\Chapter21\StreamRead\bin\Debug\StreamRead.pdb
+D:\works\BegVCSharp\Chapter21\StreamRead\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\works\BegVCSharp\Chapter21\StreamRead\obj\x86\Debug\StreamRead.exe
+D:\works\BegVCSharp\Chapter21\StreamRead\obj\x86\Debug\StreamRead.pdb

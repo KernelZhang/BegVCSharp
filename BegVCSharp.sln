@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteFile", "Chapter21\Writ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWrite", "Chapter21\StreamWrite\StreamWrite.csproj", "{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamRead", "Chapter21\StreamRead\StreamRead.csproj", "{48DE30C8-2827-403F-B6DA-CE7B26A3E60F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommaValues", "Chapter21\CommaValues\CommaValues.csproj", "{464C7B05-AF88-41B4-9357-1F02467FE5C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Debug|x86.Build.0 = Debug|x86
 		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Release|x86.ActiveCfg = Release|x86
 		{5B0AFC6F-F9EB-45F9-98B2-C1F9ABA9FF55}.Release|x86.Build.0 = Release|x86
+		{48DE30C8-2827-403F-B6DA-CE7B26A3E60F}.Debug|x86.ActiveCfg = Debug|x86
+		{48DE30C8-2827-403F-B6DA-CE7B26A3E60F}.Debug|x86.Build.0 = Debug|x86
+		{48DE30C8-2827-403F-B6DA-CE7B26A3E60F}.Release|x86.ActiveCfg = Release|x86
+		{48DE30C8-2827-403F-B6DA-CE7B26A3E60F}.Release|x86.Build.0 = Release|x86
+		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Debug|x86.ActiveCfg = Debug|x86
+		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Debug|x86.Build.0 = Debug|x86
+		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Release|x86.ActiveCfg = Release|x86
+		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
