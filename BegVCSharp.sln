@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamRead", "Chapter21\Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommaValues", "Chapter21\CommaValues\CommaValues.csproj", "{464C7B05-AF88-41B4-9357-1F02467FE5C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compressor", "Chapter21\Compressor\Compressor.csproj", "{C7B0149C-C528-48F4-9CAD-F3A7334CE2A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Debug|x86.Build.0 = Debug|x86
 		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Release|x86.ActiveCfg = Release|x86
 		{464C7B05-AF88-41B4-9357-1F02467FE5C6}.Release|x86.Build.0 = Release|x86
+		{C7B0149C-C528-48F4-9CAD-F3A7334CE2A4}.Debug|x86.ActiveCfg = Debug|x86
+		{C7B0149C-C528-48F4-9CAD-F3A7334CE2A4}.Debug|x86.Build.0 = Debug|x86
+		{C7B0149C-C528-48F4-9CAD-F3A7334CE2A4}.Release|x86.ActiveCfg = Release|x86
+		{C7B0149C-C528-48F4-9CAD-F3A7334CE2A4}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

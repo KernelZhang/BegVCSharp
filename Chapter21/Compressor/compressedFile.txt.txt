@@ -1,0 +1,20 @@
+static void SaveCompressedFile(string filename, string data)
+
+FileStream fileStream =
+new FileStream(filename, FileMode.Create, FileAccess.Write);
+GZipStream compressionStream =
+new GZipStream(fileStream, CompressionMode.Compress);
+StreamWriter writer = new StreamWriter(compressionStream);
+writer.Write(data);
+writer.Close();
+
+static string LoadCompressedFile(string filename)
+
+FileStream fileStream =
+new FileStream(filename, FileMode.Open, FileAccess.Read);
+GZipStream compressionStream =
+new GZipStream(fileStream, CompressionMode.Decompress);
+StreamReader reader = new StreamReader(compressionStream);
+string data = reader.ReadToEnd();
+reader.Close();
+return data;
